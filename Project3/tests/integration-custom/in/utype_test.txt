@@ -1,0 +1,2 @@
+lui t0 123
+auipc t1 16
